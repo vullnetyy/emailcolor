@@ -1,0 +1,27 @@
+{
+  "name": "emailcolor",
+  "version": "1.0.0",
+  "description": "A converter that takes in a color represented in rgb, hex or through one of the color string names and outputs the color in hexadecimal format",
+  "main": "index.js",
+  "keywords": "converter rgb to hex browser color name string",
+  "scripts": {
+    "test": "karma start karma.conf.js --single-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vullnetyy/emailcolor.git"
+  },
+  "author": "Vullnet Dyla",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/vullnetyy/emailcolor/issues"
+  },
+  "homepage": "https://github.com/vullnetyy/emailcolor#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.19",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-jasmine": "^0.3.6"
+  }
+}
