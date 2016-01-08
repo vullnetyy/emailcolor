@@ -1,7 +1,5 @@
 var browserColors = require('./browserColors');
 
-console.log(rgbToHex('rgb(0, 200, 255)'));
-
 function rgbToHex(color){
 	if (color) {
 	    if(

@@ -5,7 +5,7 @@
   "main": "index.js",
   "keywords": "converter rgb to hex browser color name string",
   "scripts": {
-    "test": "karma start karma.conf.js --single-run"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -19,9 +19,6 @@
   "homepage": "https://github.com/vullnetyy/emailcolor#readme",
   "devDependencies": {
     "jasmine": "^2.4.1",
-    "jasmine-core": "^2.4.1",
-    "karma": "^0.13.19",
-    "karma-chrome-launcher": "^0.2.2",
-    "karma-jasmine": "^0.3.6"
+    "jasmine-core": "^2.4.1"
   }
 }
