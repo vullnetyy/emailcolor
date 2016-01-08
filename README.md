@@ -1,5 +1,5 @@
 # emailColor
-A converter that takes in a color represented in rgb, hex or through one of the color string names and outputs the color in hexadecimal format.
+A converter that takes in a color represented in rgb, hex or through one of the color string names and outputs the color in a format that plays well with most email clients (not rgb).
 
 Import using the CommonJS (browserify) or ES6 modules syntax for client side use.
 Simly call the imported value like this:
