@@ -1,6 +1,6 @@
 {
   "name": "emailcolor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A converter that takes in a color represented in rgb, hex or through one of the color string names and outputs the color in hexadecimal format",
   "main": "index.js",
   "keywords": "converter rgb to hex browser color name string",
