@@ -22,4 +22,6 @@ function rgbToHex(color){
     return 'transparent';
 };
 
-module.exports = rgbToHex;
+exports.__esModule = true;
+exports["default"] = rgbToHex;
+module.exports = exports["default"];
